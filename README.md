@@ -1,2 +1,1 @@
-# Healthy-Soul-s
-Winter's hackathon
+# Healthy_Souls
